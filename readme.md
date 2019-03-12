@@ -1,0 +1,1 @@
+This repository has been moved to [https://github.com/azure-ad-b2c/samples](https://github.com/azure-ad-b2c/samples)
